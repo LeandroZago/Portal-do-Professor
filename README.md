@@ -5,3 +5,7 @@ No sistema, o professor irá informar o nome da  instituição de ensino, cadast
 Além disso, é possível visualizar todos os cadastros feitos na aba "Cadastros realizados", onde o usuário pode pesquisar pelo tipo de cadastro (Aluno, Curso, Disciplina) e será exibida uma tabela com as informações de cada cadastro e também é possível exportar essas informações em um arquivo PDF. Futuramente, serão adicionadas as funcionalidades de edição e exclusão dos cadastros feitos.
 
 Programa desenvolvido na linguagem C/C++ utilizando o framework [QT Creator](https://www.qt.io/download-qt-installer).
+
+<h2>Downloads:</h2>
+
+<h3><a href="https://github.com/Tiago0Br/portal-do-professor/releases/download/v1.0.0-beta/instalador_ProjetoIntegrador.exe">Portal do Professor 32bits</a>
